@@ -228,10 +228,3 @@ Then, access it in your browser at `http://localhost:6006/`.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Adjustments Made:
-1. **Consistent Indentation**: Ensured uniform indentation in the project structure section.
-2. **Clarity in Sections**: Slightly refined some sections for clarity and readability.
-3. **Script Paths**: Made script paths consistent (e.g., `scripts/data_processing.py`).
-4. **Removed Redundant Statements**: Tidied up sections to avoid redundancy while retaining essential information.
-
-Feel free to adjust any parts further to match your preferences or project specifics!
