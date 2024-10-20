@@ -223,14 +223,10 @@ Then, access it in your browser at `http://localhost:6006/`.
 5. **Prediction**: Classify emotions in new images.
 6. **Visualization**: Use TensorBoard to track training progress.
 
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request. Any suggestions or improvements are welcome!
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
 
 ### Adjustments Made:
 1. **Consistent Indentation**: Ensured uniform indentation in the project structure section.
